@@ -1,4 +1,4 @@
-# ⚙️ KMEA C Programs
+# ⚙️ KMEA C Programs {1-9 & 23-26 Missing}
 
 This repository contains all the C programs I wrote during my time at **KMEA** as part of my Semester 2 coursework and practice.  
 It includes class exercises, assignments, lab work, and small projects written to strengthen my programming fundamentals.
